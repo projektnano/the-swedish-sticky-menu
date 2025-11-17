@@ -28,12 +28,10 @@ nav {
 background-color: #1e3250;
 position: sticky;
 top: 0;
-z-index: 1000;
+z-index: 1000; /* change based on your design / needs */
 overflow-x: auto;
 white-space: nowrap;
 scrollbar-width: none;
-overflow: -moz-scrollbars-none;
--ms-overflow-style: none;
 padding: 10px 0px;
 border-bottom: 3px dotted #4b61e6;
 }
